@@ -54,6 +54,7 @@ public class GraphBuilder {
             graph.addEdge(edgeStr, from, to);
         }
 
+
         this.graph.setAttribute("ui.stylesheet", styleSheet);
     }
 
